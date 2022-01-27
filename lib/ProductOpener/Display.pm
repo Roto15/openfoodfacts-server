@@ -183,6 +183,7 @@ use Excel::Writer::XLSX;
 use Template;
 use Data::Dumper;
 use Devel::Size qw(size total_size);
+use Data::DeepAccess qw(deep_get);
 use Log::Log4perl;
 
 use Log::Any '$log', default_adapter => 'Stderr';
@@ -3879,6 +3880,19 @@ HTML
 			if (not defined $user_or_org_ref) {
 				display_error(lang("error_unknown_org"), 404);
 			}
+		}
+		elsif ($tagid =~ /\./) {
+			# App user (format "[app id].[app uuid]")
+
+			my $appid = $`;
+			my $uuid = $';
+
+			my $app_name = deep_get(\%options, "apps_names", $appid) || $appid;
+			my $app_user = f_lang("f_app_user", { app_name => $app_name });
+
+			$title = $app_user;
+			$products_title = $app_user;
+			$display_tag = $app_user;
 		}
 		else {
 
@@ -10430,7 +10444,7 @@ sub display_product_history($$) {
 			my ($uid) = @_;
 			return display_tag_link('editors', $uid);
 		},
-		product_url => product_url($product_ref),
+		this_product_url => product_url($product_ref),
 		revisions => \@revisions
 	};
 
@@ -10982,8 +10996,8 @@ sub display_ingredients_analysis_details($) {
 	my $unknown_ingredients_html = '';
 	my $unknown_ingredients_help_html = '';
 
-	if ($ingredients_text . $specific_ingredients =~ /unknown_ingredient/) {
-		$template_data_ref->{ingredients_text_comp} = 'unknown_ingredient';
+	if (($ingredients_text . $specific_ingredients) =~ /unknown_ingredient/) {
+		$template_data_ref->{unknown_ingredients} = 1;
 
 		$styles .= <<CSS
 .unknown_ingredient {
@@ -11022,10 +11036,6 @@ sub display_ingredients_analysis($) {
 	if (defined $product_ref->{ingredients_analysis_tags}) {
 
 		my $template_data_ref = {
-			lang => \&lang,
-			display_icon => \&display_icon,
-			title => lang("ingredients_analysis") . separator_before_colon($lc) . ':',
-			disclaimer => lang("ingredients_analysis_disclaimer"),
 			ingredients_analysis_tags => [],
 		};
 
@@ -11045,6 +11055,9 @@ sub display_ingredients_analysis($) {
 					$ingredients_analysis_tag = "en:palm-oil-free";
 					$color = 'green';
 					
+				}
+				elsif ($ingredients_analysis_tag =~ /unknown/) {
+					$color = 'grey';
 				}
 				elsif ($ingredients_analysis_tag =~ /^en:may-/) {
 					$color = 'orange';
@@ -11083,13 +11096,13 @@ sub display_ingredients_analysis($) {
 				elsif ($ingredients_analysis_tag =~ /^en:maybe-/) {
 					$color = 'orange';
 				}
+				elsif ($ingredients_analysis_tag =~ /unknown/) {
+					$color = 'grey';
+				}
 				else {
 					$color = 'green';
 				}
 			}
-
-			# Skip unknown
-			next if $ingredients_analysis_tag =~ /unknown/;
 
 			if ($icon ne "") {
 				$icon = display_icon($icon);
