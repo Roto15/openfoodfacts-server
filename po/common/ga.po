@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ga\n"
 "Project-Id-Version: openfoodfacts\n"
-"PO-Revision-Date: 2022-01-14 08:57\n"
+"PO-Revision-Date: 2022-01-30 15:14\n"
 "Language-Team: Irish\n"
 "Last-Translator: \n"
 "POT-Creation-Date: \n"
@@ -5791,5 +5791,18 @@ msgstr ""
 # "source" as in "source of the information"
 msgctxt "source"
 msgid "Source"
+msgstr ""
+
+# variable names between { } must not be translated
+msgctxt "f_app_user"
+msgid "A user of the {app_name} app"
+msgstr ""
+
+msgctxt "food_groups_p"
+msgid "food groups"
+msgstr ""
+
+msgctxt "food_groups_s"
+msgid "food group"
 msgstr ""
 
