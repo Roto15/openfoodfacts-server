@@ -20520,7 +20520,7 @@ from_palm_oil:en:no
 en:shea butter, shea, shea fat
 ak:Nkuto
 ar:زبدة الشيا
-bg:Масло от ший
+bg:Масло от ший, ший
 da:sheasmør, shea, sheafedt
 de:Shea Butter, Sheabutter, Shea, Sheafett
 el:λίπος shea
@@ -21388,6 +21388,7 @@ carbon_footprint_fr_foodges_value:fr:4.2
 
 <en:vinegar
 en:white vinegar
+bg:бял оцет
 de:Weißer Essig
 es:Vinagre blanco
 fr:vinaigre blanc
@@ -21395,6 +21396,7 @@ it:Aceto bianco
 
 <en:vinegar
 en:distilled vinegar
+bg:дестилиран оцет
 de:destillierter Essig
 es:vinagre destilado
 fr:vinaigre distillé
@@ -21761,6 +21763,7 @@ nl:natuurazijn
 
 
 en:alcohol, Pure alcohol
+bg:Алкохол
 ca:Alcohol
 de:Alkohol
 es:alcohol
@@ -22063,6 +22066,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Amaretto
 
 
 <en:liqueur
+bg:Лимончело
 ca:Limoncello
 cs:Limoncello
 de:Limoncello
@@ -23856,6 +23860,7 @@ vegetarian:en:maybe
 
 <en:flavouring
 en:artificial flavouring, artificial flavour, artificial flavor, artificial flavoring
+bg:изкуствен ароматат
 da:kunstig smag
 de:künstliches Aroma
 es:aroma artificial, saborizante artificial, sabor artificial, saborizantes artificiales
@@ -24418,6 +24423,7 @@ nl:natuurlijk cacao-aroma
 
 <en:flavouring
 en:cocoa flavouring, cocoa flavour
+bg:аромат на какао
 da:kakaosmag
 de:Kakaoaroma
 es:aroma de cacao
@@ -24501,6 +24507,7 @@ it:Aroma di cipolla naturale
 
 <en:flavouring
 en:vanilla flavouring
+bg:аромат на ванилия, ванилов аромат
 ca:Aroma de vainilla, aromes de vainilla
 da:vaniljearoma, vanilijaroma
 de:VanilleAroma
@@ -25812,7 +25819,7 @@ it:grano cotto
 
 <en:wheat
 en:wheat grain
-bg:пшенични эърна зърна
+bg:пшенични зърна
 de:weizenkörner
 es:grano de trigo
 fi:vehjänjyvä, vehnänjyvät
@@ -25833,7 +25840,7 @@ it:frumento soffiato
 #<en:whole grain
 en:whole wheat, whole grain wheat, wholegrain wheat, wholewheat
 ar:قمح كامل
-bg:пълнозърнест пшеничен
+bg:пълнозърнеста пшеница
 da:fuldkornshvede
 de:Vollkornweizen
 el:σίτος ολικής αλέσεως
@@ -25953,6 +25960,7 @@ fr:blé malté torréfié concassé
 <en:wheat
 <en:vegetable fiber
 en:wheat fiber
+bg:пшенични влакна
 da:hvedefibre
 de:Weizenfasern
 es:fibras de trigo
@@ -25975,6 +25983,7 @@ de:Weizenhalmfaser
 
 <en:wheat
 en:wheat bran
+bg:пшенични трици
 de:Weizenkleie, Weizenspeisekleie
 es:salvado de trigo
 fi:vehnälese
@@ -25992,6 +26001,7 @@ sv:vetekli
 
 <en:wheat
 en:einkorn wheat, einkorn
+bg:лимец
 de:Einkorn
 fr:engrain
 la:Triticum monococcum
@@ -30342,7 +30352,7 @@ fr:riz semi-complet
 <en:rice
 en:brown rice, full grain rice, wholegrain rice, whole rice, whole grain brown rice
 ar: أرز أسمر
-bg:кафяв пълнозърнест ориз
+bg:кафяв пълнозърнест ориз,кафяв ориз
 ca:arròs integral
 cs:celozrnná rýže, hnědá rýže
 da:brune ris
@@ -30396,6 +30406,7 @@ fr:Riz brun complet étuvé pré-cuit
 <en:rice
 en:white rice
 ar:أرز أبيض
+bg:бял ориз
 de:weißer Reis
 el:λευκό ρύζι
 eo:blanka rizo
@@ -30446,6 +30457,7 @@ hu:extrudált rizs
 
 <en:rice
 en:long grain rice
+bg:дългозърнест ориз
 de:Langkornreis
 es:Arros de grano largo,arroz largo
 fi:pitkäjyväinen riisi
@@ -30504,6 +30516,7 @@ fr:riz long semi complet issu de l'agriculture-biologique:
 <en:long grain rice
 <en:brown rice
 en:brown long grain rice, long grain brown rice
+bg:кафяв дългозърнест ориз
 de:brauner Langkornreis
 fi:pitkäjyväinen tumma riisi, pitkäjyväinen täysjyväriisi
 fr:riz long complet, riz complet long grain
@@ -30668,6 +30681,7 @@ nl:zwarte wilde rijst
 <en:rice
 en:red rice
 ar:أرز أحمر
+bg:червен ориз
 de:roter Reis
 es:arroz rojo, arroz colorado
 fi:punainen riisi, punariisi
@@ -30705,6 +30719,7 @@ fr:riz rouge long complet
 
 <en:rice
 en:black rice
+bg:черен ориз
 bn:কালো চাল
 de:schwarzer Reis
 es:arroz negro
@@ -30729,6 +30744,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Black_rice
 <en:rice
 en:basmati rice, basmati
 ar:بسمتي
+bg:ориз басмати, басмати
 bn:বাসমতী
 br:basmati
 ca:arròs Basmati
@@ -31240,6 +31256,7 @@ es:goma garrofín peruana
 <en:flour
 <en:guar gum
 en:guar flour
+bg:брашно от гуар, гуарово брашно
 de:Guarkernmehl
 es:Harina de guar
 fi:guarjauho
@@ -31253,6 +31270,7 @@ sv:guarkärnmjöl
 # This identical the the flour variant
 
 en:guar gum
+bg:гума гуар
 ca:goma guar
 de:Guarkernmehl
 el:κομμι χαρουτιων
@@ -31277,6 +31295,7 @@ fr:farine de graines de caroube et farine de graines de guar
 <en:guar gum
 <en:xanthan gum
 en:xanthan gum and guar gum
+bg:гума ксантан и гума гуар
 de:Xanthan und Guarkernmehl
 es:goma xantana y goma guar
 fi:ksantaanikumi ja johanneksenleipäpuujauhe
@@ -31472,6 +31491,7 @@ fr:sucres extraits de fruits
 en:brown sugar
 ar:سكر بني
 az:Qəhvəyi şəkər
+bg:кафява захар
 ca:sucre morè
 da:farin, brun farin
 de:Brauner Zucker, Farinzucker
@@ -31539,6 +31559,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Muscovado
 # nova:en:invert-sugar
 <en:monosaccharide
 en:invert sugar, inverted sugar
+bg:инвертна захар
 ca:sucre invertit
 cs:Inverzní cukr
 da:invertsukker
@@ -31563,6 +31584,7 @@ fr:sucre de canne inverti
 
 <en:sugar
 en:caramelised sugar
+bg:карамелизирана захар
 da:karamelliseret sukker
 de:Karamellzucker, karamellisierter Zucker
 es:azúcar caramelizado
@@ -31582,6 +31604,7 @@ es:azucar caramelizado en polvo
 
 <en:sugar
 en:white sugar
+bg:бяла захар
 de:weißer Zucker
 es:Azúcar blanco, Azúcar blanco comun, azúcar blanquilla
 fi:valkoinen sokeri
@@ -31605,6 +31628,7 @@ nl:biologische bruine suiker
 
 <en:sugar
 en:liquid sugar
+bg:течна захар
 de:Flüssigzucker, flüssiger Zucker
 es:Azúcar liquido
 fi:nestesokeri
@@ -31630,6 +31654,7 @@ fr:sucre caramélisé en poudre
 # comment:en:powdered sugar and icing sugar may be the same thing.
 <en:sugar
 en:powdered sugar
+bg:пудра захар, захар на прах
 de:Puderzucker
 es:Azucar en polvo
 fi:jauhettu sokeri
@@ -31651,6 +31676,7 @@ nl:kandijsuiker
 # <en:compound
 <en:sugar
 en:vanilla sugar
+bg:ванилова захар
 bs:vanilin šećer
 da:vaniljesukker
 de:vanillezucker
@@ -31927,6 +31953,7 @@ carbon_footprint_fr_foodges_value:fr:0.7
 
 <en:sugar
 en:palm sugar
+bg:палмова захар
 de:Palmenzucker
 es:Azúcar de palma
 fi:Palmusokeri
@@ -32282,6 +32309,7 @@ ciqual_food_name:fr:Mélasse de canne
 en:trehalose
 ar:طرهالوز
 be:Трэгалоза
+bg:трехалоза
 ca:Trehalosa
 cs:Trehalóza
 da:trehalose
@@ -32554,6 +32582,7 @@ de:fructosefreier Glucosesirup, fructosefreier Glukosesirup
 
 <en:glucose syrup
 en:dehydrated glucose syrup, powdered glucose syrup, dried glucose syrup
+bg:дехидратиран глюкозен сироп, сироп от глюкоза на прах
 da:tørret glukosesirup
 de:getrockneter Glukosesirup, dehydrierter Glukosesirup
 es:Sirope deshidratado de glucosa, jarabe de glucosa deshidratado
@@ -32593,6 +32622,7 @@ allergens:en: en:gluten
 <en:glucose syrup
 #<en:wheat
 en:wheat glucose syrup
+bg:пшеничен глюкозен сироп
 de:Weizenglukosesirup
 es:Sirope de glucosa de trigo
 fi:vehnäglukoosisiirappi
@@ -32711,6 +32741,7 @@ allergens:en: en:gluten
 
 <en:fructose
 en:fructose syrup
+bg:фруктозен сироп
 de:Fruktose Sirup, Fruktosesirup
 es:Jarabe de fructosa
 fi:fruktoosisiirappi, fruktoosisiirappia
@@ -32732,6 +32763,7 @@ it:Fruttosio in polvere
 # comment:en:The wikidata names are not used on packages.
 
 en:oligofructose
+bg:олигофруктоза
 de:Oligofructose, Oligofruktose
 es:Oligofructosa
 fi:oligofruktoosi
@@ -32755,6 +32787,7 @@ fr:fibres végétales d'oligofructose
 
 <en:oligofructose
 en:oligofructose syrup
+bg:сироп от олигофруктоза
 de:Oligofruktosesirup
 es:jarabe de oligofructosa
 fi:oligofruktoosisiirappi
@@ -32767,6 +32800,7 @@ nl:oligofructosestroop
 <en:glucose
 <en:fructose
 en:glucose-fructose
+bg:глюкоза-фруктоза
 de:Glukose-Fruktose
 es:glucosa-fructosa
 fi:glukoosi-fruktoosi
@@ -32780,7 +32814,7 @@ sv:Glukos-Fruktos
 <en:glucose
 <en:fructose
 en:glucose-fructose syrup, fructose-glucose syrup, glucose and fructose syrup
-bg:глюкозо-фруктозен сироп
+bg:глюкозо-фруктозен сироп, сироп от глюкоза и фруктоза
 ca:Xarop de glucosa-fructosa, xarop de glicosa-fructosa, xarop de glucosa i fructosa
 cs:glukózo-fruktózový sirup, glukózový-fruktózový sirup
 da:glukos-fruktossirap, glukose-fruktosesirup
@@ -32851,6 +32885,7 @@ zh:高果糖浆
 <en:invert sugar
 <en:sugar syrup
 en:invert sugar syrup, invert syrup, liquid invert syrup, inverted syrup
+bg:сироп от инвертна захар, инвертен захарен сироп
 cs:sirup z invertního cukru
 de:Invertzuckersirup
 es:Jarabe de azúcar invertido
@@ -32889,6 +32924,7 @@ fr:sirop de sucre de canne evaporé, sirop de canne évaporé
 en:corn syrup
 ar:شراب الذرة
 be:Кукурузны сіроп
+bg:царевичен сироп
 ca:Xarop de blat de moro
 cs:Kukuřičný sirup
 da:majssirup
@@ -32976,6 +33012,7 @@ hu:bio juharszirup
 
 <en:disaccharide
 en:sugar syrup
+bg:захарен сироп
 de:Zuckersirup
 es:Sirope de azucar,jarabe de azucar
 fi:sokerisiirappi, sokeriliemi
@@ -33002,6 +33039,7 @@ fr:sirop de sucres issus de fruits
 
 <en:disaccharide
 en:wheat syrup
+bg:пшеничен сироп
 da:hvedesirup
 de:Weizensirup
 es:Jarabe de trigo, sirope de trigo
@@ -33148,6 +33186,7 @@ nl:biologische dextrose
 
 <en:dextrose
 en:corn dextrose, dextrose from corn
+bg:царевична декстроза
 bs:kukuruzna dekstroza
 de:Maisdextrose
 es:dextrosa de maíz
@@ -33168,6 +33207,7 @@ tr:misir dekstrozu
 
 <en:dextrose
 en:wheat dextrose, dextrose from wheat
+bg:пшенична декстроза
 de:Weizendextrose
 es:Dextrosa de trigo
 fi:vehnädekstroosi
@@ -33195,6 +33235,7 @@ nl:dextrose van tarwe of maïs
 
 <en:dextrose
 en:dextrose monohydrate
+bg:декстроза монохидрат
 de:Dextrosemonohydrat, Dextrose-Monohydrat
 es:dextrosa monohidrato, dextrosa monohidratada
 fr:dextrose monohydraté
@@ -33205,6 +33246,7 @@ pt:dextrose monohidratada
 
 <en:dextrose
 en:polydextrose, E1200
+bg:полидекстроза
 de:Polydextrose
 es:Polidextrosa
 fi:Polydekstroosi
@@ -33299,6 +33341,7 @@ es:oligosacáridos
 
 <en:oligosaccharides
 en:isomalto-oligosaccharide, isomaltooligosaccharide
+bg:изомалто-олигозахарид
 cs:isomalto-oligosacharidy
 de:isomalto-oligosaccharid
 fi:isomalto-oligosakkaridi, isomalto-oligosakkaridit
@@ -33315,6 +33358,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Isomaltooligosaccharide
 <en:sweetener
 en:Fructooligosaccharide, fructo-oligosaccharide
 ar:قليل السكاريد الفركتوزي
+bg:Фруктоолигозахарид
 ca:Fructooligosacàrid
 de:Oligofructose
 es:Fructooligosacárido,Fructoligosacáridos
@@ -33358,7 +33402,7 @@ as:মাংসসাৰ
 az:Zülallar
 ba:Аҡһымдар
 be:Бялкі
-bg:Белтъци
+bg:Белтък, Белтъци, Белтъчини
 bn:প্রোটিন
 br:protein
 bs:Bjelančevine
@@ -33586,6 +33630,7 @@ ro:proteină de floarea-soarelui
 
 <en:vegetable protein
 en:potato protein
+bg:картофен протеин
 de:kartoffelprotein
 fi:perunaproteiini
 fr:protéine de pomme de terre, protéines de pomme de terre
@@ -33620,6 +33665,7 @@ sv:hydrolyserat ärtprotein
 
 <en:hydrolysed vegetable protein
 en:soy protein
+bg:соев протеин
 ca:proteïna de soja
 cs:sójová bílkovina, sójová bilkovina
 da:sojaprotein
@@ -33775,6 +33821,7 @@ sv:hydrolyserad majsprotein, hydrolyserat majsprotein
 
 <en:protein
 en:animal protein
+bg:животински протеин
 ca:Proteïna animal, proteïnes animals
 da:animalsk protein
 de:tierisches Eiweiß
@@ -33805,6 +33852,7 @@ vegetarian:en:no
 
 <en:animal protein
 en:pork protein
+bg:свински протеин
 de:Schweineprotein
 es:proteina de cerdo
 fi:sianlihaproteiini
@@ -34052,6 +34100,7 @@ wiktionary:en:https://en.wiktionary.org/wiki/caseinate
 
 <en:caseinate
 en:sodium caseinate
+bg:натриев казеинат
 da:natriumcaseinat
 de:Natriumcaseinat
 el:καζεϊνικό του νατρίου
@@ -34343,6 +34392,7 @@ en:cocoa powder
 ar:مسحوق الكاكاو
 az:Kakao tozu
 be:Какава-парашок
+bg:какао на прах
 ca:cacau en pols
 cs:Kakaový prášek
 da:Kakaopulver
@@ -40471,6 +40521,7 @@ sv:naturlig citronarom
 <en:citrus fruit
 en:clementine, clementins
 ar:كليمونتين
+bg:Клементина
 bo:ཚ་ལི་མ་ཆུང་བའི་རིགས།
 ca:clementina
 co:Clementina
@@ -66655,6 +66706,7 @@ ar:شاي أحمر
 az:qara çay
 ba:Ҡара сәй
 be:Чорны чай
+bg:черен чай
 bn:কালো চা
 bo:ཇ་དམར།
 ca:te negre
@@ -67554,6 +67606,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Chlorella
 
 en:spirulina
 ar:سبيرولنا
+bg:Спирулина
 bn:স্পিরুলিনা
 ca:Spirulina
 cs:spirulina
@@ -67611,6 +67664,7 @@ ciqual_food_name:fr:Spiruline (Spirulina sp.), séchée ou déshydratée
 
 <en:spirulina
 en:spirulina powder
+bg:спиралина на прах
 de:Spirulina Pulver
 fi:spirulinajauhe, spirulina-jauhe
 fr:poudre de spiruline
@@ -67637,6 +67691,7 @@ ro:concentrat de spirulină, concentrat de spirulina
 en:seaweed
 af:Seewier
 ar:عشب بحري
+bg:водорасли
 br:bezhin
 cs:mořské řasy
 cy:Gwymon
@@ -71312,7 +71367,7 @@ ciqual_food_name:fr:Églefin, cru
 <en:fish
 <en:white fish
 en:hake
-bg:мерлуз
+bg:мерлуза
 ca:lluç
 de:Colin
 es:Merluza
