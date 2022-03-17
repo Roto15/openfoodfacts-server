@@ -77379,6 +77379,7 @@ ciqual_food_name:fr:Cône ou cornet classique, pour glace
 
 #categorie/gaufrettes
 en:Neapolitan wafer
+bg:Неаполитански вафли
 be:Неапалітанскія вафлі
 ca:napolitana
 de:Neapolitaner-Waffeln
