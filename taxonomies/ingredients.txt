@@ -570,6 +570,7 @@ fi:emulgointiaine auringonkukkalesitiini
 <en:soya lecithin
 <en:sunflower lecithin
 en:soya and sunflower lecithin
+bg:соев и слънчогледов лецитин
 de:Sojalecithin und Sonnenblumen
 es:lecitina de soja y girasol
 fi:soija- ja auringonkukkalesitiini
@@ -602,6 +603,7 @@ vegan:en:yes
 vegetarian:en:yes
 
 <en:E322(i)
+bg:емулгатор лецитин
 fr:émulsifiant lécithines, émulsifiants lécithines
 de:emulgator lecithine
 es:emulsionante de lecitina, emulsionantes de lecitina
@@ -1279,6 +1281,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Glycerol_ester_of_wood_rosin
 
 <en:Glycerol esters of wood rosin
 en:stabilizer e445
+bg:стабилизатор е445
 de:Stabilisator E445
 es:Estabilizador e445
 fi:stabilointiaine e445
@@ -1523,6 +1526,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Mono-_and_diglycerides_of_fatty_acids
 
 <en:mono- and diglycerides of fatty acids
 en:emulsifier mono- and diglycerides of fatty acids
+bg:емулгатор e471
 ca:emulsionant e471, emulsificant e471, emulgent e471
 de:Emulgator Mono- und Diglyceride von Fettsäuren
 es:emulsionante e471, emulsificante e471, emulgente e471
@@ -3265,7 +3269,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Beeswax
 
 <en:beeswax
 en:white and yellow beeswax
-bg:пчелен восък - бял и жълт
+bg:бял и жълт пчелен восък 
 ca:cera d'abelles blnaca i groga
 cs:včelí vosk bílý a žlutý
 da:bivoks hvidt og gult
@@ -3399,6 +3403,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Shellac
 
 
 # en:Argon, E938, E-938, E 938
+# bg:Аргон
 # fr:Argon
 # nl:Argon
 # additive/e938-argon has no products @2019-04-20
@@ -3412,6 +3417,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Shellac
 # ingredient/propellent-gas-e938 has no products @2019-04-20
 
 # en:helium, E939, E-939, E 939
+# bg:Хелий
 # fr:Helium
 # nl:Helium
 # additive/e939-helium has no products @2019-04-20
@@ -3920,6 +3926,7 @@ en:E953
 
 <en:cyclamate
 en:Sodium cyclamate, E952iv, E-952iv, E952(iv)
+bg:Натриев цикламат 
 ca:ciclamat de sodi
 de:Natriumcyclamat
 el:Κυκλαμικό νάτριο
@@ -4273,6 +4280,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Alpha-amylase
 <en:enzyme
 en:Protease, E1101, E-1101, E 1101
 ar:ببتيداز
+bg:протеаза
 bs:Proteaza
 ca:peptidasa
 cs:Proteáza
@@ -4529,15 +4537,18 @@ it:destrina di tapioca
 
 <en:dextrin
 en:potato dextrin
+bg:картофен декстрин
 de:Kartoffeldextrin, Kartoffel-Dextrin
 
 <en:dextrin
+bg:пшеничен декстрин
 fr:dextrine de blé
 fi:vehnädekstriini
 # ingredient/fr:dextrine-de-blé has 63 products in french @2019-01-26
 
 <en:dextrin
 en:corn dextrin
+bg:царевичен декстрин
 de:Maisdextrin
 es:dextrina de maiz
 fi:maissidekstriini
@@ -4552,6 +4563,7 @@ nl:maïsdextrine
 <en:modified starch
 <en:potato starch
 en:modified potato starch, E1404
+bg:модифицирано картофено нишесте
 ca:mido de patata
 da:modificeret kartoffelstivelse
 de:modifizierte Kartoffelstärke
@@ -4774,6 +4786,7 @@ en:ferment
 az:fermentlər
 ba:Ферменттар
 be:Ферменты
+bg:закваска
 ca:ferment, ferments
 cs:Kvasnice
 da:gæret
@@ -4811,6 +4824,7 @@ vegetarian:en:maybe
 
 <en:enzyme
 en:coagulating enzyme
+bg:коагулиращ ензим
 de:gerinnendes Enzym
 es:Enzima coagulante
 fi:hyydytysentsyymi
@@ -5239,6 +5253,7 @@ it:L.casei 431
 # description:en:LACTOBACILLUS HELVETICUS is a lactic-acid producing, rod-shaped bacterium of the genus Lactobacillus. It is most commonly used in the production of American Swiss cheese and Emmental cheese, but is also sometimes used in making other styles of cheese, such as Cheddar, Parmesan, Romano, provolone, and mozzarella.
 
 <en:Lactobacillus
+bg:Lactobacillus Helveticus
 de:Lactobacillus Helveticus, L. Helveticus
 fi:lactobacillus helveticus
 fr:Lactobacillus helveticus
@@ -5516,6 +5531,7 @@ vegetarian:en:maybe
 en:rennet
 an:Cuallo
 ar:منفحة
+bg:сирище
 bs:Sirište
 ca:quall
 co:Pirrulu
@@ -5651,6 +5667,7 @@ it:Caglio di pecora
 <en:enzyme
 en:cellulase
 ar:سليولاز
+bg:целулаза
 bs:Celulaza
 ca:cellulasa
 de:Cellulase
@@ -5701,6 +5718,7 @@ fr:hémicellulase
 <en:enzyme
 en:Lactase, lactase enzyme
 ar:لكتاز
+bg:лактаза
 bn:ল্যাকটেজ
 ca:lactasa
 cs:laktáza
@@ -5844,6 +5862,7 @@ en:dairy, dairy product, dairy products, dairy food, dairy foods, milk product, 
 af:Suiwelproduk
 ar:منتجات الألبان
 be:Малочныя прадукты
+bg:млечни продукти
 br:Boued-laezh
 bs:Mliječni proizvodi
 ca:Làctic, producte làctic, llet i els seus derivats, llet i derivats, derivats làctics, làctics, productes làctics
@@ -5914,6 +5933,7 @@ es:derivado lacteo en polvo
 <en:dairy
 en:fermented milk products, cultured dairy foods, cultured dairy products, cultured milk products
 be:Кісламалочныя прадукты
+bg:ферментирали млечни продукти
 ca:Llet fermentada, productes làctics fermentats
 cs:Kysaný mléčný výrobek
 de:Sauermilchprodukte, Sauermilchprodukt, Sauermilcherzeugnis, Sauermilcherzeugnisse
@@ -6191,6 +6211,7 @@ fr:beurre de baratte demi-sel
 
 <en:butter
 en:pasteurized butter, pasteurised butter
+bg:пастьоризирано масло
 ca:mantega pasteuritzada
 de:pasteurisierter Butter
 es:mantequilla pasteurizada
@@ -6203,6 +6224,7 @@ nl:gepasteuriseerde boter
 
 <en:pasteurized butter
 en:organic pasteurized butter
+bg:биологично пастьоризирано масло
 ca:mantega pasteuritzada ecològica
 de:pasteurisierter Bio Butter
 es:mantequilla pasteurizada ecológica
@@ -6602,6 +6624,7 @@ it:Latte biologico
 
 <en:milk
 en:milk from France
+bg:мляко от Франция
 de:Milch aus Frankreich
 fr:lait origine france
 nl:melk uit Frankrijk
@@ -6614,6 +6637,7 @@ nl:melk uit Frankrijk
 # comment:en:Any milk can be fresh (whatever that means)
 <en:milk
 en:fresh milk
+bg:прясно мляко
 ca:llet fresca
 de:Frischmilch
 es:Leche fresca
@@ -6733,6 +6757,7 @@ ciqual_food_name:fr:Lait écrémé, pasteurisé
 <en:skimmed milk
 <en:sterilised milk
 en:UHT sterilised skimmed milk, UHT skimmed milk, ultra heat treated skimmed milk
+bg:UHT стерилизирано обезмаслено мляко
 ca:llet descremada esterilitzada UHT, llet desnatada esterilitzada UHT
 de:entrahmte H-Milch
 es:leche descremada esterilizada UHT, leche desnatada esterilizada UHT, leche UHT descremada
@@ -6929,6 +6954,7 @@ fr:lait de montagne entier stérilisé uht
 <en:whole milk
 <en:organic milk
 en:organic whole milk
+bg:биологично пълномаслено мляко
 ca:llet sencera ecològica, llet sencera d'agricultura ecològica
 de:Bio-Vollmilch
 es:leche entera ecológica, leche entera de agricultura ecológica, leche entera orgánica
@@ -7358,6 +7384,7 @@ ciqual_food_name:fr:Lait de brebis, entier
 #processing:en: en:raw
 #<en:sheeps milk
 #en:raw sheeps milk
+#bg:сурово овче мляко
 #ca:llet crua d'ovella, llet d'ovella crua
 #de:roher Schafmilch
 #el:ακατέργαστο πρόβειο γάλα
@@ -7370,6 +7397,7 @@ ciqual_food_name:fr:Lait de brebis, entier
 #processing:en: en:pasteurised
 #<en:sheeps milk
 #en:pasteurized sheeps milk, pasteurised sheep's milk
+#bg:пастьоризирано овче мляко
 #ca:llet d'ovella pasteuritzada, llet pasteuritada d'ovella
 #de:pasteurisierte Schafsmilch, pasteurisierter Schafsmilch
 #es:Leche de oveja pasteurizada, leche pasteurizada de oveja
@@ -7391,6 +7419,7 @@ es:leche de oveja termizada, leche termizada de oveja
 <en:goat's milk
 <en:sheeps milk
 en:sheep and goat milk, goat and sheep milk
+bg:овче и козе мляко
 de:Schafs- und Ziegenmilch
 fi:vuohen ja lampaan maito, lampaan ja vuohen maito
 fr:lait de brebis et de chèvre
@@ -7607,6 +7636,7 @@ ciqual_food_name:fr:Lait concentré sucré, entier
 <en:sweetened condensed milk
 en:dulce de leche, milk jam
 ar:دولسي دي ليتشه
+bg:млечно сладко, сладко от мляко, конфитюр от мляко
 bn:আঠালো মিঠাই
 ca:almívar de llet, confitura de llet, llet confitada
 cs:kokosový karamel
@@ -7637,6 +7667,7 @@ ciqual_food_name:fr:Confiture de lait
 
 <en:condensed milk
 en:condensed whole milk
+bg:кондензирано пълномаслено мляко
 ca:llet sencera condensada, llet condensada sencera
 de:kondensierte Vollmilch
 es:leche entera condensada, leche condensada entera
@@ -7651,6 +7682,7 @@ ciqual_food_name:fr:Lait concentré non sucré, entier
 
 <en:condensed milk
 en:condensed semi-skimmed milk
+bg:кондензирано полуобезмаслено мляко
 ca:llet semidesnatada condensada, llet parcialment desnatada condensada, llet condensada semidesnatada, llet condensada parcialment desnatada
 de:teilentrahmte Kondensmilch
 es:leche semidesnatada condensada, leche parcialmente desnatada condensada, leche condensada semidesnatada, leche condensada parcialmente desnatada
@@ -7663,6 +7695,7 @@ nl:gecondenseerde halfvolle melk
 
 <en:condensed milk
 en:condensed skimmed milk, concentrated skim milk, concentrated skimmed milk
+bg:кондензирано обезмаслено мляко
 ca:llet descremada condensada, llet desnatada condensada, llet condensada descremada, llet condensada desnatada
 de:Kondensmagermilch, kondensierte Magermilch, konzentrierte Magermilch, Magermilchkonzentrat, eingedickte entrahmte Milch
 es:leche descremada condensada, leche desnatada condensada, leche condensada descremada, leche condensada desnatada
@@ -7686,6 +7719,7 @@ nl:gecondenseerde magere poedermelk
 <en:milk proteins
 <en:lactose
 en:lactose and milk proteins
+bg:лактоза и млечни протеини
 ca:lactosa i proteïnes de la llet, proteïnes de la llet i lactosa
 da:Laktose og mælkeprotein
 de:Milchzucker und Milcheiweiß, Milchzucker und Milcheiweiss
@@ -7840,12 +7874,14 @@ ciqual_food_name:fr:Lait en poudre, entier
 
 <en:whole milk powder
 en:whole cow's milk powder
+bg:пълномаслено краве мляко на прах
 de:Kuhvollmilchpulver, Kuhmilchpulver
 es:leche entera de vaca en polvo
 
 <en:whole milk powder
 <en:skimmed milk powder
 en:skimmed and whole milk powder
+bg:обезмаслено и пълномаслено мляко на прах
 fr:poudres de lait écrémé et entier
 ru:молоко сухое цельное и обезжиренноё
 
@@ -8057,6 +8093,7 @@ nl:Lactosepoeder
 
 # <from:en:milk
 en:milk minerals
+bg:млечни минерали
 ca:minerals de la llet
 de:Milchmineralien
 es:minerales de la leche
@@ -8131,6 +8168,7 @@ es:yogur natural azucarado
 
 <en:yogurt
 en:organic yogurt
+bg:био кисело мляко
 ca:iogurt ecològic, iogurt eco
 es:yogur ecológico, yogur eco
 fi:luomujogurtti, luomu jogurtti
@@ -8139,6 +8177,7 @@ nl:biologische yoghurt
 
 <en:yogurt
 en:low fat yogurt
+bg:нискомаслено кисело мляко
 ca:iogurt magre
 de:Magermilchjoghurt, fettarmer Joghurt, Joghurt aus entrahmter Milch
 es:yogur magro
@@ -8166,6 +8205,7 @@ es:yogur parcialmente desnatado, yogur semidesnatado
 
 <en:yogurt
 en:skimmed yogurt, fat free yogurt
+bg:обезмаслено кисело мляко
 de:entrahmter Joghurt, entrahmtem Joghurt, Magermilchjoghurt
 es:yogur desnatado
 fi:rasvaton jogurtti
@@ -8177,6 +8217,7 @@ it:Yogurt magro
 
 <en:yogurt
 en:whole milk yogurt
+bg:пълномаслено кисело мляко
 ca:iogurt de llet sencera
 de:Vollmilchjoghurt, Joghurt mit natürlichem Fettgehalt, Joghurt aus Vollmilch
 es:yogur de leche entera
@@ -8196,6 +8237,7 @@ sv:yoghurtpulver
 
 <en:whole milk yogurt
 en:whole milk yogurt powder
+bg:пълномаслено мляко на прах
 ca:iogurt de llet sencera en pols
 de:Vollmilchjoghurtpulver
 es:yogur de leche entera en polvo
@@ -9747,6 +9789,7 @@ ciqual_food_name:fr:Rocamadour (fromage de chèvre)
 <en:cheese
 # <en:category:en:Cheeses
 en:sheep's-milk cheese, Sheep Cheeses, Cheeses from sheep milk
+bg:сирене от овче мляко, овче сирене
 ca:formatge de llet d'ovella, formatges d'ovella, formatges de llet d'ovella, formatge d'ovella
 cs:ovčí sýr
 de:Schafskäse, Schafkäse, Schafmilchkäse, Käse aus Schafsmilch
@@ -12827,6 +12870,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Thiamine
 
 <en:Thiamine
 en:Thiamin mononitrate, thiamine mononitrate
+bg:Тиамин мононитрат
 ca:mononitrat de tiamina
 da:thiamin-mononitrat
 de:Thiaminmononitrat
@@ -12981,6 +13025,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Niacin
 <en:vitamin B3
 en:Nicotinamide, niacinamide
 ar:نيكوتيناميد
+bg:Никотинамид
 ca:niacinamida
 cs:Nikotinamid
 cy:nicotinamid
@@ -13098,6 +13143,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Pantothenic_acid
 
 <en:Pantothenic acid
 en:calcium pantothenate
+bg:калциев пантотенат
 de:Calcium-Pantothenat
 es:pantotenato de calcio
 fi:kalsiumpantotenaatti, kalsium-d-pantotenaatti
@@ -13191,6 +13237,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Vitamin_B6
 
 <en:vitamin B6
 en:pyridoxine hydrochloride
+bg:пиридоксин хидрохлорид
 de:Pyridoxinhydrochlorid
 es:clorhidrato de piridoxina
 fi:pyridoksiinihydrokloridi
@@ -13663,6 +13710,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Vitamin_D
 <en:vitamin D
 en:Ergocalciferol, Vitamin D2, D2
 ar:إرغوكالسيفيرول
+bg:Ергокалциферол, Витамин D2
 ca:Ergocalciferol, vitamina D2, D2
 cs:ergokalciferol, Vitamín D2
 cy:ergocalcifferol
@@ -13710,7 +13758,7 @@ en:Cholecalciferol, vitamin D3, D3
 af:Vitamien D3
 ar:كوليكالسيفيرول
 az:D3 vitamini
-bg:Витамин D3
+bg:Холекалциферол, Витамин D3
 bs:Holekalciferol, Vitamin D3
 ca:Colecalciferol, vitamina D3, D3
 cs:cholekalciferol, Vitamín D3
@@ -14175,6 +14223,7 @@ nl:steenzout
 
 <en:salt
 en:Smoked salt
+bg:Пушена сол
 ca:sal fumada
 de:Rauchsalz, Hickorysalz, Smoked Salt
 es:Sal ahumada
@@ -14194,6 +14243,7 @@ nl:zwart zout
 
 <en:salt
 en:Himalayan salt
+bg:хималайска сол
 ca:Sal de l'Himalaya
 de:Himalayasalz
 el:αλάτι Ιμαλάιων
@@ -14204,6 +14254,7 @@ it:Sale dell'Himalaya
 
 <en:salt
 en:pink salt
+bg:розова сол
 ca:Sal rosa
 de:Himmalaja-Salz
 es:Sal rosa
@@ -14213,6 +14264,7 @@ it:Sale rosa
 <en:Himalayan salt
 <en:pink salt
 en:Himalayan pink salt, Pink Himalayan salt
+bg:Хималайска розова сол
 ca:Sal rosa de l'Himalaya
 de:rosa Himalayasalz, rosa Himalaya-Salz
 es:Sal rosa del Himalaya
@@ -14231,6 +14283,7 @@ fr:Sel de l’Himalaya
 
 <en:salt
 en:refined salt
+bg:рафинирана сол
 ca:sal refinada
 de:Raffiniertes Salz
 es:sal refinada
@@ -14238,6 +14291,7 @@ fr:sel raffiné
 
 <en:salt
 en:unrefined salt
+bg:нерафинирана сол
 ca:sal no refinada
 de:Unraffiniertes Salz
 es:sal no refinada
@@ -14274,6 +14328,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Kosher_salt
 <en:salt
 en:sea salt, bay salt, solar salt, natural sea salt, pure sea salt
 ar:ملح البحر
+bg:морска сол
 ca:Sal marina, sal maria de taula
 cs:Mořská sůl
 da:Havsalt
@@ -14443,6 +14498,7 @@ sv:saltflingor
 <en:salt
 en:sodium iodide
 ar:يوديد الصوديوم
+bg:натриев йодид
 bs:Natrijum jodid
 ca:iodur de sodi
 cs:Jodid sodný
@@ -14496,6 +14552,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Sodium_iodide
 # <en:compound
 en:iodised salt, iodized salt
 ar:ملح معالج باليود
+bg:йодирана сол
 ca:sal iodada
 cs:Jodidovaná sůl
 da:salt tilsat jod
@@ -14559,6 +14616,7 @@ de:jodiertes Nitritpökelsalz
 <en:sea salt
 <en:iodised salt
 en:iodised sea salt, iodized sea salt
+bg:йодирана морска сол
 ca:sal marina iodada, sal de mar iodada
 da:iodiseret havsalt
 de:jodiertes Meersalz
@@ -14602,6 +14660,7 @@ pl:sól potasowa, mineralna sól potasowa
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 en:animal
+bg:животно
 ca:Animal
 da:dyr
 de:tierisch
@@ -14618,6 +14677,7 @@ pt:Animal
 sv:djur
 
 en:meat
+bg:месо
 ca:Carn
 cs:Maso
 da:Kød
@@ -14760,6 +14820,7 @@ description:pt:A quenelle é um bolinho feito com carne ou peixe muito condiment
 
 <en:animal
 en:beef, steers
+bg:телешко
 ca:carn de vaca
 cs:Hovězí
 da:oksekød
@@ -14832,6 +14893,7 @@ de:gebratenes Rindfleisch einschließlich Rindfleischsäften
 <en:meat
 <en:beef
 en:beef meat, pure beef meat
+bg:говеждо месо
 ca:carn pura de vaca
 de:Rindfleisch
 es:carne de vaca, carne de vacuno, carne bovina,  Carne pura de vaca
@@ -14907,6 +14969,7 @@ sv:nötfärs
 
 <en:beef meat
 en:beef tongue, Raw beef tongue
+bg:говежди език
 ca:llengua de vedella
 de:Kalbszunge, Kalbzunge
 es:lengua de ternera
@@ -14964,6 +15027,7 @@ de:rindergehacktes
 
 <en:beef meat
 en:beef heart
+bg:говеждо сърце
 ca:cor de vedella
 de:Rinderherz
 es:corazón de res, corazón de ternera
@@ -15040,6 +15104,7 @@ ciqual_food_name:en:Liver, calf, cooked
 ciqual_food_name:fr:Foie, veau, cuit
 
 en:cow
+bg:крава
 ca:vaca
 de:Kuh
 es:vaca
@@ -15092,6 +15157,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Chuck_steak
 
 <en:sheep
 en:lamb
+bg:агне
 an:Corder
 br:Oan
 ca:anyell
@@ -15128,6 +15194,7 @@ wikidata:en:Q4575936
 <en:meat
 <en:lamb
 en:lamb meat
+bg:агнешко месо
 ca:carn de xai
 cs:jehněčí maso
 da:lammekød
@@ -15521,6 +15588,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Rabbit
 <en:rabbit
 <en:meat
 en:rabbit meat
+bg:заешко месо
 ca:carn de conill
 cs:králičí maso
 de:Hasenfleisch, Kaninchenfleisch
@@ -15793,6 +15861,7 @@ en:mutton, sheeps meat
 af:skaapvleis
 az:Qoyun əti
 be:бараніна
+bg:овче месо
 ca:carn d'ovella
 cs:skopové maso
 cy:Cig oen
@@ -16192,6 +16261,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Horse
 en:horse meat
 ar:لحم خيل
 az:at əti
+bg:конско месо
 cs:koňské maso
 de:pferdefleisch
 el:κρέας αλόγου
@@ -16285,6 +16355,7 @@ ciqual_food_name:fr:Bœuf, steak haché 20% MG, cuit
 ###################################################################################################
 <en:animal
 en:goat
+bg:коза
 de:Ziege
 es:cabra
 fr:Chèvre
@@ -16296,6 +16367,7 @@ fr:Chèvre
 en:goat meat
 an:aponkye
 ar:لحم الماعز
+bg:козе месо
 bs:Kozetina
 ca:carn de cabra, carn de cabrit
 da:gedekød
@@ -16350,6 +16422,7 @@ ciqual_food_name:fr:Chevreau, cuit
 ###################################################################################################
 <en:animal
 en:pork
+bg:свинско
 ca:Porc
 cs:Vepřové, vepřová, vepřový
 da:Svin
@@ -16375,6 +16448,7 @@ vegetarian:en:no
 <en:meat
 <en:pork
 en:pork meat
+bg:свинско месо
 ca:Carn de porc
 cs:Vepřové maso
 da:Svinekød
@@ -16410,6 +16484,7 @@ fr:Viande de porc hachée
 #category:en:pork-shoulders
 <en:pork meat
 en:pork shoulder
+bg:свинска плешка
 de:Schweineschulter, Schweinebug
 es:paleta de cerdo
 fr:épaule de porc
@@ -27883,6 +27958,7 @@ ciqual_food_name:fr:Son d'avoine
 <en:oat
 en:oat milk
 ar:حليب الشوفان
+bg:овесено мляко
 cs:ovesné mléko
 de:Hafermilch
 da:havredrik
@@ -28466,6 +28542,7 @@ es:espelta inflada
 
 <en:cereal flour
 en:spelt flour
+bg:брашно от спелта
 ca:farina d'espelta
 de:Dinkelmehl, Dinkelweizenmehl
 es:harina de espelta, harina de trigo espelta, harina gruesa de espelta
@@ -28794,6 +28871,7 @@ sv:spannmålsmjöl
 
 <en:cereal flour
 en:malt flour
+bg:малцово брашно
 de:Malzmehl
 es:harina de malta
 fi:mallasjauho
@@ -28963,6 +29041,7 @@ sv:mörkt durumvetemjöl
 
 <en:cereal flour
 en:wholemeal flour
+bg:пълнозърнесто брашно
 da:Fuldkornsmel
 de:Vollkornmehl
 es:harina integral
@@ -29082,6 +29161,7 @@ sv:jästbrödsvetemjöl, vetejästbrödmjöl
 <en:cereal flour
 <en:barley
 en:barley flour
+bg:ечемичено брашно
 de:Gerstenmehl
 es:harina de cebada
 fi:ohrajauho
@@ -29138,6 +29218,7 @@ nl:gedextrineerd gerstemeel, gedextrineerd gerstmeel
 
 <en:buckwheat
 en:buckwheat flour
+bg:брашно от елда
 da:boghvedemel
 de:Buchweizenmehl
 el:αλέυρι φαγόπυρου
@@ -29170,6 +29251,7 @@ nl:volkoren boekweitmeel
 
 <en:cereal flour
 en:rye flour
+bg:ръжено брашно, брашно от ръж
 ca:farina de blat de sègol,farina de blat de segol,farina de sègol
 da:Rugmel
 de:Roggenmehl
@@ -29343,6 +29425,7 @@ sv:solrosfrömjöl
 <en:flour
 <en:soya bean
 en:soya flour, soy flour, soybean meal
+bg:соево брашно
 ca:Farina de soja
 da:Sojamel, sojabønnemel
 de:Sojamehl, Sojabohnenmehl
@@ -29465,7 +29548,7 @@ sv:fullkornsmajsmjöl
 <en:flour
 <en:rice
 en:rice flour, riceflour
-bg:ръжено брашно
+bg:Оризово брашно
 ca:farina d'arròs
 cs:rýžová mouka
 da:rismel
@@ -29820,6 +29903,7 @@ tr:beyaz misir
 
 <en:corn
 en:yellow corn
+bg:жълта царевица
 da:gul majs
 de:Gelber Mais
 es:maíz blanco
@@ -30007,6 +30091,7 @@ fr:maïs doux en grains sans ogm
 
 <en:corn
 en:sweetcorn
+bg:сладка царевица
 de:Süssmais
 es:maíz dulce
 fi:sokerimaissi
@@ -45748,6 +45833,7 @@ fr:nappage à la fraise
 <en:strawberry
 <en:fruit juice
 en:strawberry juice
+bg:сок от ягоди, ягодов сок
 de:Erdbeersaft
 es:zumo de fresa
 fi:mansikkamehu
@@ -45793,6 +45879,7 @@ fi:pakastekuivattu mansikka paloina
 <en:strawberry
 <en:purée
 en:strawberry puree
+bg:пюре от ягоди
 de:Erdbeerpüree
 es:puré de fresa
 fi:mansikkapyree, mansikkasose, mansikkapyre
@@ -62261,6 +62348,7 @@ ciqual_food_name:fr:Romarin, séché
 #<en:rosemary
 # <en:antioxidant
 #en:rosemary extract, extracts of rosemary
+#bg:екстракт от розмарин
 #cs:rozmarýnový extrakt
 #da:rosmarinekstrakt, ekstrakter af rosmarin
 #de:Rosmarinextrakt
@@ -62836,7 +62924,7 @@ ciqual_food_name:fr:Estragon, frais
 <en:herb
 en:thyme
 ar:الزعتر
-bg:chubrica
+bg:ронена чубрица
 ca:farigola
 cs:tymián
 cy:teim
@@ -63610,6 +63698,7 @@ fr:pétales de bleuet
 
 <en:herb
 en:marigold
+bg:Невен
 bs:Neven
 ca:boixac de jardí
 cs:měsíček lékařský
@@ -66081,7 +66170,7 @@ en:roselle flower, hibiscus flower, hibiscus flowers, hibiscus
 ar:كركديه
 as:টেঙামৰা
 az:Məkkə çayı
-bg:চুকাই
+bg:хибискус каркаде, Суданска роза
 ca:rosa de Jamaica
 cs:ibišek súdánský
 da:hibiskusblomst
@@ -66300,6 +66389,7 @@ es:concentrado de cártamo con efecto colorante
 #ar:زعفران
 #az:زافران
 #be:шафран
+#bg:шафран
 #bn:জাফরান
 #br:safron
 #bs:šafran
